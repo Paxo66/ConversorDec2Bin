@@ -22,6 +22,9 @@ __Lorem Ipsum__ es simplemente el texto  ~~de relleno~~  de las imprentas y arch
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 
-:+1: 
+:+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: 
+
+
+
 
 
