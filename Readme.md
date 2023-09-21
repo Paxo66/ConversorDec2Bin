@@ -14,13 +14,13 @@ __Lorem Ipsum__ es simplemente el texto  ~~de relleno~~  de las imprentas y arch
 ![alt text](https://github.com/Paxo66/ConversorDec2Bin/blob/main/Los-ultimos-dias-de-Kurt-Cobain.jpg "Kurt Cobain")
 ---
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> Hacer los deberes de Informárica Básica.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> Darle de comer al perro.
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> No cerrar este archivo sin guardar.
 
 :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: :+1: 
 
